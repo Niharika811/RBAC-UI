@@ -1,4 +1,4 @@
-Admin Dashboard - Role-Based Access Control (RBAC)
+ RBAC-UI - Role-Based Access Control Dashboard
 This project implements a frontend for an Admin Dashboard where an admin can manage users, assign roles (creator or user), and allow creators to create and manage posts. Users can view posts and follow creators. The application demonstrates Role-Based Access Control (RBAC) using modern React techniques.
 
 Table of Contents
@@ -102,7 +102,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/Niharika0811
+git clone[ https://github.com/Niharika0811/RBAC-UI](https://github.com/Niharika811/RBAC-UI)
 cd VRV-security-assignment
 Install dependencies:
 
